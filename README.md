@@ -1,7 +1,7 @@
 # whatsapp-caliph-bot
 BOT WHATSAPP TERMUX
 
-
+# Ketik %menu/%help
 
 
 
@@ -16,13 +16,15 @@ BOT WHATSAPP TERMUX
 > cd whatsapp-caliph-bot
 > unzip caliph-bot.zip
 > ls
-> cd whatsapp-caliph-bot
+> cd caliph-bot
 > ls
 > pkg install ffmpeg -y
 > pkg install wget -y
 > pkg install nodejs -y
-> npm i-g cwebp
-> npm i-g ytdl
+> pkg install tesseract -y
+> npm i -g cwebp
+> npm i -g ytdl
+> npm i node-tesseract-ocr
 > npm i
 > npm i got
 > node index.js
@@ -56,4 +58,4 @@ BOT WHATSAPP TERMUX
 ### Join
 * [`Whatsapp`](https://bit.ly/GC_BotLovers)
 
-### PREFIX BOT %
+
